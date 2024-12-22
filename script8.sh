@@ -1,5 +1,5 @@
 #!/bin/zsh
-
+# factorial of a number
 echo "enter a number to calculate its factorial:"
 read num
 
